@@ -3,8 +3,8 @@
   <p align="center">I'm Diego Linares a <strong>Web Developer in progress</strong> passionate about technology and the web.</p>
 </p>
 
-<p align="center">I am someone who wants to contribute to the growing community of developers with articles, tweets, motivation and in the future with videos.
-My philosophy of life is: "Never stop learning" 💚.</p>
+<p align="center">I am someone who wants to contribute to the growing community of developers with articles, tweets, motivational content and in the future with development video tutorials.</p>
+<p align="center">My philosophy of life is: "Never stop learning" 💚.</p>
 
 <img alt="WardenCodeBanner" src="https://i.imgur.com/i4cNEct.png">
 
