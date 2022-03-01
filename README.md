@@ -43,4 +43,5 @@
   <img alt="Warden-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img alt="Warden-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   <img alt="Warden-Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Warden-Emacs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">
 </div>
