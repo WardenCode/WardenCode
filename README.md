@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/diego-linares-castillo" target="_blank">
     <img height="32" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <a href="https://medium.com/@wardencode" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <h2>Stats:</h2>
