@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="WardenCodeImg" height="200" src="https://i.imgur.com/D6Z6m0r.png">
   <p align="center">I'm Diego Linares a <strong>Web Developer in process</strong> passionate about technology and the web.</p>
 </p>
 
