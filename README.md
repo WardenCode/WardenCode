@@ -1,11 +1,11 @@
+<img alt="WardenCodeBanner" src="https://i.imgur.com/i4cNEct.png">
+
 <p align="center">
   <p align="center">I'm Diego Linares a <strong>Web Developer in process</strong> passionate about technology and the web.</p>
 </p>
 
 <p align="center">I am someone who wants to contribute to the growing community of developers with articles, tweets, motivational content and in the future with development video tutorials.</p>
 <p align="center">My philosophy of life is: "Never stop learning" 💚.</p>
-
-<img alt="WardenCodeBanner" src="https://i.imgur.com/i4cNEct.png">
 
 <div align="center">
   <a href="https://twitter.com/WardenCode" target="_blank">
