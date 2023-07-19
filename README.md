@@ -38,7 +38,7 @@ I also have a strong interest in **indie video games**, where I find captivating
   * Github Actions
   * Application Server (Gunicorn(Flask), Express, Prisma, mongoose).
   * Load Balancer (HAProxy).
-  * Web Server Configuration (Nginx, Apache, SSL(OpenSSL, Certbot), UFW).
+  * Web Server Configuration (Nginx, Apache, SSL(Certbot), UFW).
 
 ### Others
 
